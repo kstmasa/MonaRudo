@@ -1,0 +1,36 @@
+
+opp.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+char_background
+  rotate: false
+  xy: 1, 1
+  size: 1000, 550
+  orig: 1000, 550
+  offset: 0, 0
+  index: -1
+
+opp2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+char_chose
+  rotate: false
+  xy: 1, 1
+  size: 1000, 550
+  orig: 1000, 550
+  offset: 0, 0
+  index: -1
+
+opp3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+char_choose
+  rotate: false
+  xy: 1, 1
+  size: 160, 480
+  orig: 160, 480
+  offset: 0, 0
+  index: -1

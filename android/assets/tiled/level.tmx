@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="900" height="13" tilewidth="16" tileheight="16" nextobjectid="98">
+ <tileset firstgid="1" name="Overworld" tilewidth="16" tileheight="16" spacing="1" margin="2" tilecount="2850">
+  <image source="Overworld.png" width="1283" height="654"/>
+ </tileset>
+ <layer name="Graphics" width="900" height="13">
+  <data encoding="base64" compression="zlib">
+   eJztnTtPFFEYhvc2swtoLDXqH4DGWIiFKK0Sa36AVv4Mr9Da2lprjBr/gK2g9oKJBhqsjJaguxlO5uzHuXznNpflfZInLGR2ZpfsDvPMN6udDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwerk1UgsAiMuFgVkAAAAAAABSoes+NCAAaVA13/e+Xl9+ZW62hZ3MLofruZsAAACaz1G30/l3LABAD/oPzAJ/spM2ge3+tKr+W7I0YEgPyo23NODZpkZczO3uZoU7WXmb8mbOTaDGtatDbOrjwrmD+OB3nJYVhW3hrKSKtV5pG3mclVa5rSq2B9JzJy90WVYWgDZRZws+HRZSaAcKRXPt9qcNmf1NMM36uB0ou6iw6XDaUEipowe5x7Vtao+1+ep0+T3cna/PlKR6TYSuj3t/7nJiv07fx00699cmaPttjt2Q3AxY902NvutZsdz/paSKtvagaLK9fumj7KSu3aZah1De1p7DMcmnvtlZ5iDzsypUjUc9HD+ee+Pj2PvD4rb8c/H94Sncz9pe11UI3HDtQO45sCfHrfdM0XuCb8NCim6+p+uv0B6kfSmr2p4LdfegmOmp5no6TO1nIlYPcvvt7dy0Kt7P8WxCM1bZgyYps9qDYr83OX6nhrTSVl64Kil+JqN7TS2S+wrp49Ett4oejIZq9rdhkduDqu5TvRZ9+lLcTzwmX2w9+LFbquP8wF8faAfadCH2esVx6/pAb5tw/dv5LvMzFr+JFHnGR2d+chO+Gh/Hvh6am3E5N9tUQnrsR1af6MKCv5lZ1UyQe1ywnU2r4/P4vfFl7FePHrQR0mc6uC3o24N1zaR82s63B2VC5oK087iq4PYgtxljcDAsBfWRsgdVjebTg7TfOMvpelBuQpf9ftXnYa/0SlX8lAxBN4ujfWbrP1UPqjpSNVcMaT7T7LCqHjzXK9WxMPDTtQlVM8HQ/hPoZoDCbcf5oPzeWWhh9+no5npNHGU8XbEdc9l60ARnduiirRd9jEGKVnO5Hs1FUxOe1rkjt/98rxO1teCEi6NO59LYy4bP0T4fFrqSogdt2wjtQWrTr10Mpeoe1BG7B2N8Bm55VAr8CX3PhOwTTTN3OhOU+1DmYV5Iid2DtP9oH9rg/H3ktBX3OkhbD3LeP5zP8+lmcVTXHnQxhAe9QtNza3MPyk1omxm+SNiApg703SZ9nk3swaqv2Yzdgrp1UmyvX9NcsMm6tqPuM1MhbVY1Vc0efY8F61A0IAefLuT0IIc29aAvuh707cS6r2nkUmUPmhAtF8pkHbfn/QRpCL22NKQHTfNzbg/eyAtV6+ZcByovZ3rctCnptaM2zgzs0vmY/JXetvVQjB68Npp2FmlLD/qia0QVsVvQts7QHlyXOtD1utCtfhyts47cYgJ8WvBqr5g/iq+29VFMr1/fFvOh7n5M8ZzqJGUPyvu9puvSgxNcm7DuHmw7ro3oalOYpX9TFD3YPGL1oM/1opwetPUcpwfpOVff5UJ6UIbTg6HzMfQgD/Sgmjb0YAic8zMuaqmhBye4zgU/jJfZ7xYtuO/x/6LE6MEmctp7MCV1N56LqUEPpgU9CEB6UvdgjPlgW3rwP9qlg5s=
+  </data>
+ </layer>
+ <objectgroup name="enemy">
+  <object id="80" x="580" y="92" width="56" height="64"/>
+  <object id="82" x="2348" y="64" width="56" height="64"/>
+  <object id="83" x="1348" y="44" width="56" height="64"/>
+  <object id="84" x="868" y="64" width="56" height="64"/>
+  <object id="85" x="2740" y="44" width="56" height="64"/>
+  <object id="86" x="3380" y="44" width="56" height="64"/>
+  <object id="87" x="3676" y="108" width="56" height="64"/>
+  <object id="88" x="4452" y="48" width="56" height="64"/>
+  <object id="89" x="5440" y="76" width="56" height="64"/>
+  <object id="92" x="6308" y="44" width="56" height="64"/>
+  <object id="93" x="7464" y="92" width="56" height="64"/>
+  <object id="94" x="8840" y="-24" width="56" height="64"/>
+  <object id="95" x="9708" y="84" width="56" height="64"/>
+  <object id="96" x="9176" y="-12" width="56" height="64"/>
+  <object id="97" x="9344" y="16" width="56" height="64"/>
+ </objectgroup>
+</map>
