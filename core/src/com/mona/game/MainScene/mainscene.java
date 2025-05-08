@@ -128,7 +128,7 @@ public class mainscene implements Screen {
         ////////////////////////////////////
         // If main scene background full appears. All buttons are displayed.
         ////////////////////////////////////
-        if (sprite.getColor().toString().equals("fffffffe")) {
+        if (!sprite.getColor().toString().equals("fffffffe")) {
             startButton.setColor(1, 1, 1, 1);
             endButton.setColor(1, 1, 1, 1);
         }
